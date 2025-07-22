@@ -4,9 +4,3 @@ window.onload = function() {
         alert('这是测试代码')
     }) 
 }
-window.onload = function() {
-    let box2 = document.getElementsByClassName('box2')[0]
-    box2.addEventListener('click', () => {
-        alert('这是第二行测试代码')
-    })
-}   
